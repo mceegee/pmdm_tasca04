@@ -5,6 +5,7 @@ import 'package:qr_scan/providers/ui_provider.dart';
 import 'package:qr_scan/screens/home_screen.dart';
 import 'package:qr_scan/screens/mapa_screen.dart';
 
+// MARTA CARBONELL GIMENEZ 
 void main() {
   // https://stackoverflow.com/questions/53903928/disable-flutters-red-screen-of-death
   // Fondo per mostrar mentre es carrega la informació
